@@ -1,0 +1,4 @@
+Gradle wrapper JAR is not included. Generate it with a local Gradle installation:
+  gradle wrapper --gradle-version 8.7
+Then:
+  ./gradlew assembleDebug
